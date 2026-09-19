@@ -6,6 +6,9 @@
 
 We build physical parts — and the tools that make production repeatable.
 
+> [!WARNING]
+> **Use public P3D Service repositories at your own risk.** Hardware, firmware, configuration, rooting, disassembly, calibration and other equipment modifications can cause damage, void warranty or cause injury. To the maximum extent permitted by applicable law, P3D Service and contributors are not responsible for resulting consequences. See [Safety Disclaimer](DISCLAIMER.md).
+
 P3D Service brings together production 3D printing, 3D scanning, CAD and reverse engineering. We also develop software for equipment setup, device integration and workflow automation.
 
 ## Engineering
